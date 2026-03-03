@@ -1,6 +1,7 @@
 # 💫 Hi I'm Ankitha S  
 #  Data Analytics
 I am learning python, SQL, power BI, Advance Excel, Tableau, AWS, Statistics, Business analyst and Data visualization to analyze data and create meaningful insight. I am interested in bulilding dasboards and working on real world data analystics project.<br>I' m currently a Trainee in Data Analytics at Besant Technologies Bangalore.
+All of my project are available on GitHub.
 
 
 ## 🌐 Socials:
